@@ -1,0 +1,6 @@
+Yankı "# Ukrtlms" >> README.md 
+git init 
+git README.md eklemek 
+-m taahhüt git "önce taahhüt" 
+git uzak kökeni eklemek https://github.com/Ukrtlms/Ukrtlms.git
+ git -u kökenli asıl itmek
